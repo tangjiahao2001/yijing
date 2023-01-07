@@ -1,4 +1,8 @@
 ## 易经算卦程序
+### 使用方法 USE METHOD
+```python
+python yijing.py
+```
 ### 第一个版本
 ![版本一](./picture_readme/V1.0.0.png)
 
