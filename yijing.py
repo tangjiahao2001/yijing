@@ -318,6 +318,8 @@ def clean_english_char(s):
             c = '，'
         if c == ':':
             c = '：'
+        if c == ';':
+            c = '；'
         # 上面可继续添加
         st += c
     return st
